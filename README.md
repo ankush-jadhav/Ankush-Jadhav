@@ -1,6 +1,10 @@
-<p align="center">
-  <span style="font-size:24px; font-weight:bold;">Hi 👋 I'm Ankush</span>
-</p>
+<h1 align="center">Hi 👋 I'm Ankush</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtejasmane&label=Profile%20views&color=0e75b6&style=flat" alt="ankush-jadhav" /> </p>
+
+<p align="left"> <a href="https://twitter.com/_tejasmane" target="blank"><img src="https://img.shields.io/twitter/follow/_tejasmane?logo=twitter&style=for-the-badge" alt="_ANKUSHJADHAV" /></a> </p>
+
+
 
 🔭 I’m currently working on Python Automation<br><br>🌱 I’m currently learning AWS Developer Associate<br><br>💬 Ask me about Python, Selenium, SQL, and GitHub Actions<br><br>📫 How to reach me ankushjadhav.nan@gmail.com<br><br>⚡ Fun fact debugging is my secret weapon. If there's a problem, I've got my detective hat on.<br><br>
 
