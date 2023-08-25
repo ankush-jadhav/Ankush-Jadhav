@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtejasmane&label=Profile%20views&color=0e75b6&style=flat" alt="ankush-jadhav" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_tejasmane" target="blank"><img src="https://img.shields.io/twitter/follow/_tejasmane?logo=twitter&style=for-the-badge" alt="_ANKUSHJADHAV" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_ANKUSHJADHAV" target="blank"><img src="https://img.shields.io/twitter/follow/_ANKUSHJADHAV?logo=twitter&style=for-the-badge" alt="_ANKUSHJADHAV" /></a> </p>
 
 
 
