@@ -1,5 +1,6 @@
-## **<center>Hi 👋 I'm Ankush</center>**
-
+<p align="center">
+  <span style="font-size:24px; font-weight:bold;">Hi 👋 I'm Ankush</span>
+</p>
 
 🔭 I’m currently working on Python Automation<br><br>🌱 I’m currently learning AWS Developer Associate<br><br>💬 Ask me about Python, Selenium, SQL, and GitHub Actions<br><br>📫 How to reach me ankushjadhav.nan@gmail.com<br><br>⚡ Fun fact debugging is my secret weapon. If there's a problem, I've got my detective hat on.<br><br>
 
